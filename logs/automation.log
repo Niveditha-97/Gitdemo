@@ -1,0 +1,271 @@
+2024-07-12 11:17:42 INFO  TC001_AccountRegistrationTest:40 - *****************Starting TC001_AccountRegistrationTest.java *********** 
+2024-07-12 11:17:43 INFO  TC001_AccountRegistrationTest:46 - Clicked on myacc link
+2024-07-12 11:17:44 INFO  TC001_AccountRegistrationTest:48 - Clicked on register link
+2024-07-12 11:17:44 INFO  TC001_AccountRegistrationTest:54 - providing customer details
+2024-07-12 11:17:47 DEBUG TC001_AccountRegistrationTest:79 - validation
+2024-07-12 11:17:47 INFO  TC001_AccountRegistrationTest:85 - Test passed
+2024-07-12 11:17:47 INFO  TC001_AccountRegistrationTest:125 - *****************ending TC001_AccountRegistrationTest.java *********** 
+2024-07-12 11:17:51 INFO  TC002_LoginTest:15 - **** Starting TC_002_LoginTest  ****
+2024-07-12 11:17:51 DEBUG TC002_LoginTest:16 - capturing application debug logs....
+2024-07-12 11:17:52 INFO  TC002_LoginTest:22 - clicked on myaccount link on the home page..
+2024-07-12 11:17:52 INFO  TC002_LoginTest:24 - clicked on login link under myaccount..
+2024-07-12 11:17:52 INFO  TC002_LoginTest:28 - Entering valid email and password..
+2024-07-12 11:17:53 INFO  TC002_LoginTest:32 - clicked on login button..
+2024-07-12 11:17:54 INFO  TC002_LoginTest:48 - **** Finished TC_002_LoginTest  ****
+2024-07-12 12:46:55 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-07-12 12:46:55 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-07-12 12:46:55 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-07-12 12:46:55 TRACE XBeanDebug:197 - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2024-07-12 12:46:55 TRACE XBeanDebug:197 - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2024-07-12 12:46:55 TRACE XBeanDebug:197 - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2024-07-12 12:46:55 TRACE XBeanDebug:197 - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2024-07-12 12:46:55 TRACE XBeanDebug:197 - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2024-07-12 12:46:55 TRACE XBeanDebug:235 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2024-07-12 12:46:55 TRACE XBeanDebug:207 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+2024-07-12 12:46:55 TRACE XBeanDebug:235 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2024-07-12 12:46:55 TRACE XBeanDebug:207 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+2024-07-12 12:46:55 TRACE XBeanDebug:235 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2024-07-12 12:46:55 TRACE XBeanDebug:207 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+2024-07-12 12:46:55 TRACE XBeanDebug:235 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2024-07-12 12:46:55 TRACE XBeanDebug:207 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+2024-07-12 12:46:55 TRACE XBeanDebug:235 - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+2024-07-12 12:46:56 TRACE XBeanDebug:207 - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+2024-07-12 12:46:56 TRACE XBeanDebug:939 - Resolving type for handle themefd26doctype
+2024-07-12 12:46:56 TRACE XBeanDebug:939 - Resolving type for handle stylesheet5d8bdoctype
+2024-07-12 12:46:56 TRACE XBeanDebug:939 - Resolving type for handle ctstylesheet4257type
+2024-07-12 12:46:56 TRACE XBeanDebug:939 - Resolving type for handle ctfonts6623type
+2024-07-12 12:46:56 TRACE XBeanDebug:939 - Resolving type for handle ctfont14d8type
+2024-07-12 12:46:56 TRACE XBeanDebug:939 - Resolving type for handle ctfills2c6ftype
+2024-07-12 12:46:56 TRACE XBeanDebug:939 - Resolving type for handle ctfill550ctype
+2024-07-12 12:46:56 TRACE XBeanDebug:939 - Resolving type for handle ctborders0d66type
+2024-07-12 12:46:56 TRACE XBeanDebug:939 - Resolving type for handle ctborderf935type
+2024-07-12 12:46:56 TRACE XBeanDebug:939 - Resolving type for handle ctcellxfs1322type
+2024-07-12 12:46:56 TRACE XBeanDebug:939 - Resolving type for handle ctxf97f7type
+2024-07-12 12:46:56 TRACE XBeanDebug:939 - Resolving type for handle ctcellstylexfsa81ftype
+2024-07-12 12:46:56 TRACE XBeanDebug:939 - Resolving type for handle ctdxfsb26atype
+2024-07-12 12:46:56 TRACE XBeanDebug:939 - Resolving type for handle cttablestyles872ftype
+2024-07-12 12:46:56 TRACE XBeanDebug:939 - Resolving type for handle sstf81fdoctype
+2024-07-12 12:46:56 TRACE XBeanDebug:939 - Resolving type for handle ctsst44f3type
+2024-07-12 12:46:56 TRACE XBeanDebug:939 - Resolving type for handle ctrsta472type
+2024-07-12 12:46:56 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-07-12 12:46:56 TRACE XBeanDebug:939 - Resolving type for handle workbookec17doctype
+2024-07-12 12:46:56 TRACE XBeanDebug:939 - Resolving type for handle ctworkbook83c3type
+2024-07-12 12:46:56 TRACE XBeanDebug:939 - Resolving type for handle ctsheets49fdtype
+2024-07-12 12:46:56 TRACE XBeanDebug:939 - Resolving type for handle ctsheet4dbetype
+2024-07-12 12:46:56 TRACE XBeanDebug:939 - Resolving type for handle strelationshipid1e94type
+2024-07-12 12:46:56 TRACE XBeanDebug:939 - Resolving type for handle worksheetf539doctype
+2024-07-12 12:46:56 TRACE XBeanDebug:939 - Resolving type for handle ctworksheet530dtype
+2024-07-12 12:46:56 TRACE XBeanDebug:939 - Resolving type for handle ctcols627ctype
+2024-07-12 12:46:56 TRACE XBeanDebug:939 - Resolving type for handle ctcola95ftype
+2024-07-12 12:46:56 TRACE XBeanDebug:939 - Resolving type for handle ctsheetdata8408type
+2024-07-12 12:46:56 TRACE XBeanDebug:939 - Resolving type for handle ctrowdd39type
+2024-07-12 12:46:56 TRACE XBeanDebug:939 - Resolving type for handle ctcell842btype
+2024-07-12 12:46:56 TRACE XBeanDebug:939 - Resolving type for handle stcellrefe4e0type
+2024-07-12 12:46:56 TRACE XBeanDebug:939 - Resolving type for handle cthyperlinks6416type
+2024-07-12 12:46:56 TRACE XBeanDebug:939 - Resolving type for handle cthyperlink0c85type
+2024-07-12 12:46:56 TRACE XBeanDebug:939 - Resolving type for handle stxstringf179type
+2024-07-12 12:46:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-07-12 12:46:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-07-12 12:46:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-07-12 12:46:56 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-07-12 12:46:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-07-12 12:46:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-07-12 12:46:56 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-07-12 12:46:56 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-07-12 12:46:56 TRACE XBeanDebug:939 - Resolving type for handle stcelltypebf95type
+2024-07-12 12:46:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-07-12 12:46:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-07-12 12:46:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-07-12 12:46:57 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-07-12 12:46:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-07-12 12:46:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-07-12 12:46:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-07-12 12:46:57 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-07-12 12:46:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-07-12 12:46:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-07-12 12:46:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-07-12 12:46:57 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-07-12 12:46:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-07-12 12:46:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-07-12 12:46:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-07-12 12:46:57 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-07-12 12:46:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-07-12 12:46:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-07-12 12:46:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-07-12 12:46:57 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-07-12 12:46:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-07-12 12:46:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-07-12 12:46:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-07-12 12:46:57 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-07-12 12:46:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-07-12 12:46:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-07-12 12:46:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-07-12 12:46:57 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-07-12 12:46:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-07-12 12:46:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-07-12 12:46:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-07-12 12:46:57 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-07-12 12:46:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-07-12 12:46:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-07-12 12:46:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-07-12 12:46:57 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-07-12 12:46:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-07-12 12:46:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-07-12 12:46:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-07-12 12:46:57 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-07-12 12:46:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-07-12 12:46:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-07-12 12:46:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-07-12 12:46:57 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-07-12 12:46:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-07-12 12:46:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-07-12 12:46:57 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-07-12 12:46:57 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-07-12 12:46:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-07-12 12:46:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-07-12 12:46:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-07-12 12:46:58 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-07-12 12:46:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-07-12 12:46:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-07-12 12:46:58 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-07-12 12:46:58 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-07-12 12:46:58 INFO  TC003_LoginDDT:23 - **** Starting TC_003_LoginDDT *****
+2024-07-12 12:47:00 INFO  TC003_LoginDDT:73 - **** Finished TC_003_LoginDDT *****
+2024-07-12 12:47:01 INFO  TC003_LoginDDT:23 - **** Starting TC_003_LoginDDT *****
+2024-07-12 12:47:05 INFO  TC003_LoginDDT:23 - **** Starting TC_003_LoginDDT *****
+2024-07-12 12:47:07 INFO  TC003_LoginDDT:23 - **** Starting TC_003_LoginDDT *****
+2024-07-12 12:47:19 INFO  TC003_LoginDDT:73 - **** Finished TC_003_LoginDDT *****
+2024-07-12 12:47:19 INFO  TC003_LoginDDT:23 - **** Starting TC_003_LoginDDT *****
+2024-07-12 12:47:21 INFO  TC003_LoginDDT:73 - **** Finished TC_003_LoginDDT *****
+2024-07-12 12:48:15 INFO  TC002_LoginTest:15 - **** Starting TC_002_LoginTest  ****
+2024-07-12 12:48:15 DEBUG TC002_LoginTest:16 - capturing application debug logs....
+2024-07-12 12:48:15 INFO  TC002_LoginTest:22 - clicked on myaccount link on the home page..
+2024-07-12 12:48:16 INFO  TC002_LoginTest:24 - clicked on login link under myaccount..
+2024-07-12 12:48:16 INFO  TC002_LoginTest:28 - Entering valid email and password..
+2024-07-12 12:48:17 INFO  TC002_LoginTest:32 - clicked on login button..
+2024-07-12 12:48:17 INFO  TC002_LoginTest:48 - **** Finished TC_002_LoginTest  ****
+2024-07-12 12:53:19 INFO  TC002_LoginTest:15 - **** Starting TC_002_LoginTest  ****
+2024-07-12 12:53:19 DEBUG TC002_LoginTest:16 - capturing application debug logs....
+2024-07-12 12:53:19 INFO  TC002_LoginTest:22 - clicked on myaccount link on the home page..
+2024-07-12 12:53:20 INFO  TC002_LoginTest:24 - clicked on login link under myaccount..
+2024-07-12 12:53:20 INFO  TC002_LoginTest:28 - Entering valid email and password..
+2024-07-12 12:53:21 INFO  TC002_LoginTest:32 - clicked on login button..
+2024-07-12 13:07:37 INFO  TC002_LoginTest:15 - **** Starting TC_002_LoginTest  ****
+2024-07-12 13:07:37 DEBUG TC002_LoginTest:16 - capturing application debug logs....
+2024-07-12 13:07:37 INFO  TC002_LoginTest:22 - clicked on myaccount link on the home page..
+2024-07-12 13:07:38 INFO  TC002_LoginTest:24 - clicked on login link under myaccount..
+2024-07-12 13:07:38 INFO  TC002_LoginTest:28 - Entering valid email and password..
+2024-07-12 13:07:39 INFO  TC002_LoginTest:32 - clicked on login button..
+2024-07-12 13:07:39 INFO  TC002_LoginTest:48 - **** Finished TC_002_LoginTest  ****
+2024-07-12 18:27:49 INFO  TC001_AccountRegistrationTest:40 - *****************Starting TC001_AccountRegistrationTest.java *********** 
+2024-07-12 18:27:50 INFO  TC001_AccountRegistrationTest:46 - Clicked on myacc link
+2024-07-12 18:27:51 INFO  TC001_AccountRegistrationTest:48 - Clicked on register link
+2024-07-12 18:27:51 INFO  TC001_AccountRegistrationTest:54 - providing customer details
+2024-07-12 18:27:53 DEBUG TC001_AccountRegistrationTest:79 - validation
+2024-07-12 18:27:53 INFO  TC001_AccountRegistrationTest:85 - Test passed
+2024-07-12 18:27:53 INFO  TC001_AccountRegistrationTest:125 - *****************ending TC001_AccountRegistrationTest.java *********** 
+2024-07-12 18:27:58 INFO  TC002_LoginTest:15 - **** Starting TC_002_LoginTest  ****
+2024-07-12 18:27:58 DEBUG TC002_LoginTest:16 - capturing application debug logs....
+2024-07-12 18:27:59 INFO  TC002_LoginTest:22 - clicked on myaccount link on the home page..
+2024-07-12 18:27:59 INFO  TC002_LoginTest:24 - clicked on login link under myaccount..
+2024-07-12 18:27:59 INFO  TC002_LoginTest:28 - Entering valid email and password..
+2024-07-12 18:28:00 INFO  TC002_LoginTest:32 - clicked on login button..
+2024-07-12 18:28:00 INFO  TC002_LoginTest:48 - **** Finished TC_002_LoginTest  ****
+2024-07-12 18:36:28 INFO  TC001_AccountRegistrationTest:40 - *****************Starting TC001_AccountRegistrationTest.java *********** 
+2024-07-12 18:36:28 INFO  TC001_AccountRegistrationTest:46 - Clicked on myacc link
+2024-07-12 18:36:28 INFO  TC001_AccountRegistrationTest:48 - Clicked on register link
+2024-07-12 18:36:28 INFO  TC001_AccountRegistrationTest:54 - providing customer details
+2024-07-12 18:36:30 DEBUG TC001_AccountRegistrationTest:79 - validation
+2024-07-12 18:36:30 INFO  TC001_AccountRegistrationTest:85 - Test passed
+2024-07-12 18:36:30 INFO  TC001_AccountRegistrationTest:125 - *****************ending TC001_AccountRegistrationTest.java *********** 
+2024-07-12 18:36:35 INFO  TC002_LoginTest:15 - **** Starting TC_002_LoginTest  ****
+2024-07-12 18:36:35 DEBUG TC002_LoginTest:16 - capturing application debug logs....
+2024-07-12 18:36:35 INFO  TC002_LoginTest:22 - clicked on myaccount link on the home page..
+2024-07-12 18:36:36 INFO  TC002_LoginTest:24 - clicked on login link under myaccount..
+2024-07-12 18:36:36 INFO  TC002_LoginTest:28 - Entering valid email and password..
+2024-07-12 18:36:37 INFO  TC002_LoginTest:32 - clicked on login button..
+2024-07-12 18:36:37 INFO  TC002_LoginTest:48 - **** Finished TC_002_LoginTest  ****
+2024-07-12 18:39:08 INFO  TC001_AccountRegistrationTest:40 - *****************Starting TC001_AccountRegistrationTest.java *********** 
+2024-07-12 18:39:09 INFO  TC001_AccountRegistrationTest:46 - Clicked on myacc link
+2024-07-12 18:39:09 INFO  TC001_AccountRegistrationTest:48 - Clicked on register link
+2024-07-12 18:39:09 INFO  TC001_AccountRegistrationTest:54 - providing customer details
+2024-07-12 18:39:11 DEBUG TC001_AccountRegistrationTest:79 - validation
+2024-07-12 18:39:11 INFO  TC001_AccountRegistrationTest:85 - Test passed
+2024-07-12 18:39:11 INFO  TC001_AccountRegistrationTest:125 - *****************ending TC001_AccountRegistrationTest.java *********** 
+2024-07-12 18:39:16 INFO  TC002_LoginTest:15 - **** Starting TC_002_LoginTest  ****
+2024-07-12 18:39:16 DEBUG TC002_LoginTest:16 - capturing application debug logs....
+2024-07-12 18:39:16 INFO  TC002_LoginTest:22 - clicked on myaccount link on the home page..
+2024-07-12 18:39:17 INFO  TC002_LoginTest:24 - clicked on login link under myaccount..
+2024-07-12 18:39:17 INFO  TC002_LoginTest:28 - Entering valid email and password..
+2024-07-12 18:39:18 INFO  TC002_LoginTest:32 - clicked on login button..
+2024-07-12 18:39:18 INFO  TC002_LoginTest:48 - **** Finished TC_002_LoginTest  ****
+2024-07-12 18:42:54 INFO  TC001_AccountRegistrationTest:40 - *****************Starting TC001_AccountRegistrationTest.java *********** 
+2024-07-12 18:42:55 INFO  TC001_AccountRegistrationTest:46 - Clicked on myacc link
+2024-07-12 18:42:56 INFO  TC001_AccountRegistrationTest:48 - Clicked on register link
+2024-07-12 18:42:56 INFO  TC001_AccountRegistrationTest:54 - providing customer details
+2024-07-12 18:42:57 DEBUG TC001_AccountRegistrationTest:79 - validation
+2024-07-12 18:42:57 INFO  TC001_AccountRegistrationTest:85 - Test passed
+2024-07-12 18:42:57 INFO  TC001_AccountRegistrationTest:125 - *****************ending TC001_AccountRegistrationTest.java *********** 
+2024-07-12 18:43:02 INFO  TC002_LoginTest:15 - **** Starting TC_002_LoginTest  ****
+2024-07-12 18:43:02 DEBUG TC002_LoginTest:16 - capturing application debug logs....
+2024-07-12 18:43:02 INFO  TC002_LoginTest:22 - clicked on myaccount link on the home page..
+2024-07-12 18:43:02 INFO  TC002_LoginTest:24 - clicked on login link under myaccount..
+2024-07-12 18:43:02 INFO  TC002_LoginTest:28 - Entering valid email and password..
+2024-07-12 18:43:03 INFO  TC002_LoginTest:32 - clicked on login button..
+2024-07-12 18:43:03 INFO  TC002_LoginTest:48 - **** Finished TC_002_LoginTest  ****
+2024-07-12 18:45:51 INFO  TC001_AccountRegistrationTest:40 - *****************Starting TC001_AccountRegistrationTest.java *********** 
+2024-07-12 18:45:51 INFO  TC001_AccountRegistrationTest:46 - Clicked on myacc link
+2024-07-12 18:45:52 INFO  TC001_AccountRegistrationTest:48 - Clicked on register link
+2024-07-12 18:45:52 INFO  TC001_AccountRegistrationTest:54 - providing customer details
+2024-07-12 18:45:54 DEBUG TC001_AccountRegistrationTest:79 - validation
+2024-07-12 18:45:54 INFO  TC001_AccountRegistrationTest:85 - Test passed
+2024-07-12 18:45:54 INFO  TC001_AccountRegistrationTest:125 - *****************ending TC001_AccountRegistrationTest.java *********** 
+2024-07-12 18:45:58 INFO  TC002_LoginTest:15 - **** Starting TC_002_LoginTest  ****
+2024-07-12 18:45:58 DEBUG TC002_LoginTest:16 - capturing application debug logs....
+2024-07-12 18:45:58 INFO  TC002_LoginTest:22 - clicked on myaccount link on the home page..
+2024-07-12 18:45:59 INFO  TC002_LoginTest:24 - clicked on login link under myaccount..
+2024-07-12 18:45:59 INFO  TC002_LoginTest:28 - Entering valid email and password..
+2024-07-12 18:46:00 INFO  TC002_LoginTest:32 - clicked on login button..
+2024-07-12 18:46:00 INFO  TC002_LoginTest:48 - **** Finished TC_002_LoginTest  ****
+2024-07-12 18:50:52 INFO  TC001_AccountRegistrationTest:40 - *****************Starting TC001_AccountRegistrationTest.java *********** 
+2024-07-12 18:50:53 INFO  TC001_AccountRegistrationTest:46 - Clicked on myacc link
+2024-07-12 18:50:53 INFO  TC001_AccountRegistrationTest:48 - Clicked on register link
+2024-07-12 18:50:53 INFO  TC001_AccountRegistrationTest:54 - providing customer details
+2024-07-12 18:50:55 DEBUG TC001_AccountRegistrationTest:79 - validation
+2024-07-12 18:50:55 INFO  TC001_AccountRegistrationTest:85 - Test passed
+2024-07-12 18:50:55 INFO  TC001_AccountRegistrationTest:125 - *****************ending TC001_AccountRegistrationTest.java *********** 
+2024-07-12 18:51:00 INFO  TC002_LoginTest:15 - **** Starting TC_002_LoginTest  ****
+2024-07-12 18:51:00 DEBUG TC002_LoginTest:16 - capturing application debug logs....
+2024-07-12 18:51:00 INFO  TC002_LoginTest:22 - clicked on myaccount link on the home page..
+2024-07-12 18:51:01 INFO  TC002_LoginTest:24 - clicked on login link under myaccount..
+2024-07-12 18:51:01 INFO  TC002_LoginTest:28 - Entering valid email and password..
+2024-07-12 18:51:02 INFO  TC002_LoginTest:32 - clicked on login button..
+2024-07-12 18:51:02 INFO  TC002_LoginTest:48 - **** Finished TC_002_LoginTest  ****
+2024-07-12 19:03:27 INFO  TC001_AccountRegistrationTest:40 - *****************Starting TC001_AccountRegistrationTest.java *********** 
+2024-07-12 19:03:28 INFO  TC001_AccountRegistrationTest:46 - Clicked on myacc link
+2024-07-12 19:03:28 INFO  TC001_AccountRegistrationTest:48 - Clicked on register link
+2024-07-12 19:03:28 INFO  TC001_AccountRegistrationTest:54 - providing customer details
+2024-07-12 19:03:30 DEBUG TC001_AccountRegistrationTest:79 - validation
+2024-07-12 19:03:30 INFO  TC001_AccountRegistrationTest:85 - Test passed
+2024-07-12 19:03:30 INFO  TC001_AccountRegistrationTest:125 - *****************ending TC001_AccountRegistrationTest.java *********** 
+2024-07-12 19:03:35 INFO  TC002_LoginTest:15 - **** Starting TC_002_LoginTest  ****
+2024-07-12 19:03:35 DEBUG TC002_LoginTest:16 - capturing application debug logs....
+2024-07-12 19:03:35 INFO  TC002_LoginTest:22 - clicked on myaccount link on the home page..
+2024-07-12 19:03:35 INFO  TC002_LoginTest:24 - clicked on login link under myaccount..
+2024-07-12 19:03:35 INFO  TC002_LoginTest:28 - Entering valid email and password..
+2024-07-12 19:03:36 INFO  TC002_LoginTest:32 - clicked on login button..
+2024-07-12 19:03:36 INFO  TC002_LoginTest:48 - **** Finished TC_002_LoginTest  ****
+2024-07-12 21:41:42 INFO  TC001_AccountRegistrationTest:40 - *****************Starting TC001_AccountRegistrationTest.java *********** 
+2024-07-12 21:41:43 INFO  TC001_AccountRegistrationTest:46 - Clicked on myacc link
+2024-07-12 21:41:44 INFO  TC001_AccountRegistrationTest:48 - Clicked on register link
+2024-07-12 21:41:44 INFO  TC001_AccountRegistrationTest:54 - providing customer details
+2024-07-12 21:41:45 DEBUG TC001_AccountRegistrationTest:79 - validation
+2024-07-12 21:41:46 INFO  TC001_AccountRegistrationTest:85 - Test passed
+2024-07-12 21:41:46 INFO  TC001_AccountRegistrationTest:125 - *****************ending TC001_AccountRegistrationTest.java *********** 
+2024-07-12 21:41:50 INFO  TC002_LoginTest:15 - **** Starting TC_002_LoginTest  ****
+2024-07-12 21:41:50 DEBUG TC002_LoginTest:16 - capturing application debug logs....
+2024-07-12 21:41:50 INFO  TC002_LoginTest:22 - clicked on myaccount link on the home page..
+2024-07-12 21:41:50 INFO  TC002_LoginTest:24 - clicked on login link under myaccount..
+2024-07-12 21:41:50 INFO  TC002_LoginTest:28 - Entering valid email and password..
+2024-07-12 21:41:51 INFO  TC002_LoginTest:32 - clicked on login button..
+2024-07-12 21:41:52 INFO  TC002_LoginTest:48 - **** Finished TC_002_LoginTest  ****
